@@ -1,0 +1,15 @@
+{
+  "name": "ICE01",
+  "version": "1.0.0",
+  "description": "WEBD6201 - ICE01",
+  "main": "index.js",
+  "repository": "https://github.com/Singhal09/WEBD6201_Assessments.git",
+  "author": "Sanya Singhal",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.1",
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.3"
+  }
+}
